@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Menu Teste</h1>
-	<p><b>choooose</b></p>
+	<p><b>Teste Push</b></p>
 </body>
 </html>
